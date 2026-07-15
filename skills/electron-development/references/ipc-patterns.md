@@ -1,4 +1,3 @@
-
 # Type-Safe IPC Patterns
  
 ## The shared-contract pattern
